@@ -2,7 +2,7 @@
 
 Prototype d'une marketplace qui regroupe des épiceries africaines, caribéennes et exotiques de la région de Québec : un seul panier, une seule livraison.
 
-**Démo en ligne :** https://jean-bedelkonan-stack.github.io/marche-diaspora-demo/
+La démo est privée : son accès demande un code, transmis aux testeurs avec le lien.
 
 - Épiceries et produits **fictifs** : aucun partenariat réel.
 - **Aucun paiement réel** n'est effectué.
